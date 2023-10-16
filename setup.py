@@ -6,7 +6,7 @@ classifiers = [
 ]
 
 setup(
-  name='package-one',
+  name='package-onne',
   description='Test package',
   long_description=open('README.md').read(),
   url='https://github.com/iPhosgen/package-one',

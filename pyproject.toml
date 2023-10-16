@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "package-one"
+name = "package-onne"
 dynamic = ["version"]
 description = "Test package"
 authors = ["Your Name <you@example.com>"]
